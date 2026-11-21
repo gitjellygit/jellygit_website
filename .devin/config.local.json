@@ -1,0 +1,20 @@
+{
+  "permissions": {
+    "allow": [
+      "Exec(ls vendor)",
+      "Exec(printf)",
+      "Exec(pkill)",
+      "Exec(curl)",
+      "Exec(npm create)",
+      "Exec(rm)",
+      "Exec(cat)",
+      "Exec(find)",
+      "Exec(cd)",
+      "Exec(head)",
+      "Exec(node)",
+      "Exec(diff)",
+      "Exec(tail)",
+      "Exec(npm run)"
+    ]
+  }
+}

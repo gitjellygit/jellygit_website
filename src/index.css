@@ -1,0 +1,5 @@
+/* Site styles live in /css/style.css (loaded via index.html).
+   This file is only for React-app-level additions. */
+html {
+  scroll-behavior: smooth;
+}
